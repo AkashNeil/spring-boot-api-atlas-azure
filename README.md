@@ -20,3 +20,9 @@ Run the application locally :
 mvn spring-boot:run
 ```
 
+Package the application as a war :
+
+```
+mvn package war:war
+```
+
